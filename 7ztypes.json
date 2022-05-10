@@ -1,0 +1,9 @@
+{
+    ".7z":"-t7z",
+    ".gz":"-tgzip",
+    ".zip":"-tzip",
+    ".bz2":"-tbzip2",
+    ".tar":"-ttar",
+    ".iso":"-tiso",
+    ".udf":"-tudf"
+}
